@@ -1,2 +1,2 @@
 # shapley
-Fast version Shapley algorytm
+Fast version Shapley algorithm
